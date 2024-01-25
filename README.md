@@ -1,4 +1,4 @@
-# ⬛ Conversor de Imagem para Preto e Branco ⬜
+# 🖼️ Conversor de Imagem para Preto e Branco ⬛⬜
 <br>
 
 ## 📚 Descrição do Projeto
